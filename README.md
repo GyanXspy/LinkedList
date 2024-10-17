@@ -1,4 +1,4 @@
-Single linkedlist:
+#Single linkedlist
   Operations:
     1. Create
     2. Display
